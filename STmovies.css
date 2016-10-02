@@ -1,0 +1,8 @@
+td{
+	border: 1px solid blue;
+	border-radius: 1px;
+	padding: 5px;	
+	width:400px;
+	vertical-align: text-top;
+	margin:-10px;
+}
